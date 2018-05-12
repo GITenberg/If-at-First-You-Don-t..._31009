@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '34957'
     url: http://www.gutenberg.org/2009/agents/34957
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31009#If-at-First-You-Don-t...
 gutenberg_issued: '2010-01-18'
 gutenberg_type: Text
 identifiers:
